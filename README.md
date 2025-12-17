@@ -1,7 +1,5 @@
 ## Hello, I'm Yunseo👋
 
-Hey, my name is Yunseo or I also go by Emily 
-
 I have a huge interest in software engineering as well as AI! This is where I added all my projects💥and random spurts of creativity 💡
 
 🔭 I’m currently open to a new Job
