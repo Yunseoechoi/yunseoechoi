@@ -1,16 +1,15 @@
 ## Hello, I'm Yunseo👋
 
-  A passionate Programmer from Atlanta
+Hey, my name is Yunseo or I also go by Emily 
 
+I have a huge interest in software engineering as well as AI! This is where I added all my projects💥and random spurts of creativity 💡
 
 🔭 I’m currently open to a new Job
 
-🌱 I’m currently learning AWS
+🌱 I’m always learning 
 
 💬 Ask me about Java and NodeJs
 
 📫 How to reach me yunseoechoi@gmail.com
-
-📄 Know about my experiences resume
 
 ⚡ Fun fact I love fostering animals
