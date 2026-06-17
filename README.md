@@ -1,9 +1,11 @@
-## Hi, I'm Emily 👋
+## Hello, I'm Yunseo👋
 
-CS grad (University of Georgia) who likes building things and pointing tech at real problems. 
+I have a huge interest in software engineering as well as AI! This is where I added all my projects💥and random spurts of creativity 💡
 
-🛠️ I build full-stack web and Android projects, and I've worked with LLM APIs to build a document classification pipeline.
-🌱 Currently learning AWS.
-💬 Comfortable with Java, JavaScript/TypeScript, and Node.js.
-🤝 I foster animals, volunteer-taught at a Korean language school, and care about using tech for community impact.
-📫 Reach me: yunseoechoi@gmail.com
+🌱 I’m learning AWS and CompTIA
+
+💬 Ask me about Java and NodeJs
+
+📫 How to reach me yunseoechoi@gmail.com
+
+⚡ Fun fact I love fostering animals
