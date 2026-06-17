@@ -1,6 +1,6 @@
 ## Hello, I'm Yunseo👋
 
-I have a huge interest in software engineering as well as AI! This is where I added all my projects💥and random spurts of creativity 💡
+CS grad (University of Georgia) who likes building things and pointing tech at real problems.
 
 🛠️ I build full-stack web and Android projects, and I've worked with LLM APIs to build a document classification pipeline.
 
