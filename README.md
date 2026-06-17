@@ -1,4 +1,4 @@
-## Hello, I'm Yunseo👋
+## Hello, I'm Emily👋
 
 CS grad (University of Georgia) who likes building things and pointing tech at real problems.
 
